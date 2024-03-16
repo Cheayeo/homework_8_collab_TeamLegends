@@ -10,6 +10,6 @@ def remove_all_after(numbers, n):
     return new_numbers
 
 result = remove_all_after(numbers, n)
-print(result)
+
     
 ...
